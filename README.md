@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1732-find-the-highest-altitude) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Prefix Sum
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 <!---LeetCode Topics End-->
