@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3271-hash-divided-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
@@ -52,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
