@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [3271-hash-divided-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
