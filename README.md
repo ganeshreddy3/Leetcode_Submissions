@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3271-hash-divided-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
+## Backtracking
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
+## Stack
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
