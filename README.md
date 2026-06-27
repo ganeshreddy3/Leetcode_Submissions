@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Prefix Sum
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3271-hash-divided-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
