@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
@@ -77,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
