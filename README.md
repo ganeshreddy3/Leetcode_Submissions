@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1732-find-the-highest-altitude) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3427-sum-of-variable-length-subarrays) |
 ## String
 |  |
 | ------- |
