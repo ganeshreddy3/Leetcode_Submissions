@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1732-find-the-highest-altitude) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1288-remove-covered-intervals](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -105,9 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
