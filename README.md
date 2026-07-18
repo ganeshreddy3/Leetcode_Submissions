@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
