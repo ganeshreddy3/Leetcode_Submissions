@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0039-combination-sum) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1732-find-the-highest-altitude) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
