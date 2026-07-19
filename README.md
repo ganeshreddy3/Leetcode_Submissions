@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0077-combinations) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
