@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1260-shift-2d-grid](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 | [3271-hash-divided-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
