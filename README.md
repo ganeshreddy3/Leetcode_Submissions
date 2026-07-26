@@ -71,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
