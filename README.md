@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0039-combination-sum) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
