@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0916-word-subsets](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0916-word-subsets) |
+| [1143-longest-common-subsequence](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1773-count-items-matching-a-rule](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1043-partition-array-for-maximum-sum](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1143-longest-common-subsequence](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
