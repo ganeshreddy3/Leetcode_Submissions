@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3843-first-element-with-unique-frequency](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/ganeshreddy3/Leetcode_Submissions/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
